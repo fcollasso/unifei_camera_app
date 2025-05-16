@@ -9,9 +9,9 @@ Demonstrar na prática como as cores vermelho, verde e azul (RGB) se combinam pa
 - Recombinação dos canais de cores
 
 ## 👨‍🎓 Público-Alvo
-| Nível | Aplicação |
-|-------|-----------|
-| Ensino Médio | Introdução à óptica e teoria das cores |
+| Nível               | Aplicação                                         |
+|---------------------|---------------------------------------------------|
+| Ensino Médio        | Introdução à óptica e teoria das cores            |
 | Graduação em Física | Experimentos com processamento digital de imagens |
 
 ## 🛠️ Funcionalidades
