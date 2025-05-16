@@ -1,0 +1,40 @@
+# Diretórios padrão do Dart
+.dart_tool/
+.packages
+
+# Arquivos gerados por Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+AndroidManifest.xml
+
+# Build do Flutter
+build/
+
+# Diretórios e arquivos do iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Diretórios e arquivos do Android
+android/.gradle/
+android/app/app.iml
+android/app/build/
+android/local.properties
+
+# Arquivos específicos do Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+*.bak
+*.swp
+
+# Arquivos específicos do IntelliJ
+*.iml
+*.ipr
+*.iws
+
+# Outros arquivos
+pubspec.lock
